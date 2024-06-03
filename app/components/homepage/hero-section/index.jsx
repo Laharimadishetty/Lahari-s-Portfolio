@@ -5,7 +5,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { BsGithub, BsLinkedin } from "react-icons/bs";
 //import { FaFacebook, FaTwitterSquare } from "react-icons/fa";
-import { FaInstagram } from 'react-icons/fa';
+import { FaInstagram } from "react-icons/fa";
 import { MdDownload } from "react-icons/md";
 import { RiContactsFill } from "react-icons/ri";
 import { SiLeetcode } from "react-icons/si";
@@ -134,75 +134,75 @@ function HeroSection() {
                 <span className="text-amber-300">AWS</span>
                 <span className="text-gray-400">{"'],"}</span> */}
 
-<span className="text-gray-400">['</span>
+<span className="text-gray-400">[&apos;</span>
 <span className="text-amber-300">ReactJS</span>
-<span className="text-gray-400">', '</span>
+<span className="text-gray-400">&apos;, &apos;</span>
 <span className="text-amber-300">AngularJS</span>
-<span className="text-gray-400">', '</span>
+<span className="text-gray-400">&apos;, &apos;</span>
 <span className="text-amber-300">NodeJS</span>
-<span className="text-gray-400">', '</span>
+<span className="text-gray-400">&apos;, &apos;</span>
 <span className="text-amber-300">Bootstrap</span>
-<span className="text-gray-400">', '</span>
+<span className="text-gray-400">&apos;, &apos;</span>
 <span className="text-amber-300">Django</span>
-<span className="text-gray-400">', '</span>
+<span className="text-gray-400">&apos;, &apos;</span>
 <span className="text-amber-300">Spring Boot</span>
-<span className="text-gray-400">', '</span>
+<span className="text-gray-400">&apos;, &apos;</span>
 <span className="text-amber-300">ASP.NET</span>
-<span className="text-gray-400">', '</span>
+<span className="text-gray-400">&apos;, &apos;</span>
 <span className="text-amber-300">Git</span>
-<span className="text-gray-400">', '</span>
+<span className="text-gray-400">&apos;, &apos;</span>
 <span className="text-amber-300">Postman</span>
-<span className="text-gray-400">', '</span>
+<span className="text-gray-400">&apos;, &apos;</span>
 <span className="text-amber-300">GCP</span>
-<span className="text-gray-400">', '</span>
+<span className="text-gray-400">&apos;, &apos;</span>
 <span className="text-amber-300">AZURE</span>
-<span className="text-gray-400">', '</span>
+<span className="text-gray-400">&apos;, &apos;</span>
 <span className="text-amber-300">CI/CD</span>
-<span className="text-gray-400">', '</span>
+<span className="text-gray-400">&apos;, &apos;</span>
 <span className="text-amber-300">JIRA</span>
-<span className="text-gray-400">', '</span>
+<span className="text-gray-400">&apos;, &apos;</span>
 <span className="text-amber-300">AWS</span>
-<span className="text-gray-400">', '</span>
+<span className="text-gray-400">&apos;, &apos;</span>
 <span className="text-amber-300">Eclipse</span>
-<span className="text-gray-400">', '</span>
+<span className="text-gray-400">&apos;, &apos;</span>
 <span className="text-amber-300">Linux/Unix</span>
-<span className="text-gray-400">', '</span>
+<span className="text-gray-400">&apos;, &apos;</span>
 <span className="text-amber-300">Docker</span>
-<span className="text-gray-400">', '</span>
+<span className="text-gray-400">&apos;, &apos;</span>
 <span className="text-amber-300">Kubernetes</span>
-<span className="text-gray-400">', '</span>
+<span className="text-gray-400">&apos;, &apos;</span>
 <span className="text-amber-300">Flask</span>
-<span className="text-gray-400">', '</span>
+<span className="text-gray-400">&apos;, &apos;</span>
 <span className="text-amber-300">MySQL</span>
-<span className="text-gray-400">', '</span>
+<span className="text-gray-400">&apos;, &apos;</span>
 <span className="text-amber-300">SQL</span>
-<span className="text-gray-400">', '</span>
+<span className="text-gray-400">&apos;, &apos;</span>
 <span className="text-amber-300">MongoDB</span>
-<span className="text-gray-400">', '</span>
+<span className="text-gray-400">&apos;, &apos;</span>
 <span className="text-amber-300">Apache Spark</span>
-<span className="text-gray-400">', '</span>
+<span className="text-gray-400">&apos;, &apos;</span>
 <span className="text-amber-300">Hadoop</span>
-<span className="text-gray-400">', '</span>
+<span className="text-gray-400">&apos;, &apos;</span>
 <span className="text-amber-300">SQLite</span>
-<span className="text-gray-400">', '</span>
+<span className="text-gray-400">&apos;, &apos;</span>
 <span className="text-amber-300">TensorFlow</span>
-<span className="text-gray-400">', '</span>
+<span className="text-gray-400">&apos;, &apos;</span>
 <span className="text-amber-300">Keras</span>
-<span className="text-gray-400">', '</span>
+<span className="text-gray-400">&apos;, &apos;</span>
 <span className="text-amber-300">OpenCV</span>
-<span className="text-gray-400">', '</span>
+<span className="text-gray-400">&apos;, &apos;</span>
 <span className="text-amber-300">CNN</span>
-<span className="text-gray-400">', '</span>
+<span className="text-gray-400">&apos;, &apos;</span>
 <span className="text-amber-300">RNN</span>
-<span className="text-gray-400">', '</span>
+<span className="text-gray-400">&apos;, &apos;</span>
 <span className="text-amber-300">LLMs</span>
-<span className="text-gray-400">', '</span>
+<span className="text-gray-400">&apos;, &apos;</span>
 <span className="text-amber-300">GenerativeAI</span>
-<span className="text-gray-400">', '</span>
+<span className="text-gray-400">&apos;, &apos;</span>
 <span className="text-amber-300">Automation</span>
-<span className="text-gray-400">', '</span>
+<span className="text-gray-400">&apos;, &apos;</span>
 <span className="text-amber-300">Prompt Engineering</span>
-<span className="text-gray-400">'],</span>
+<span className="text-gray-400">&apos;],</span>
 
 
                 
