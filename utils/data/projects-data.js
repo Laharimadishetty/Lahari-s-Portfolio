@@ -36,7 +36,7 @@ export const projectsData = [
     },
     {
         id: 4,
-        name: 'FICture Website',
+        name: 'Lost and Found App',
         description: "Created a Lost and Found app using HTML, JavaScript, and Bootstrap, improving reporting efficiency by 30%. Implemented the backend with Django and SQLite, ensuring secure authentication and reducing search time by 40% through efficient object tracking.",
         tools: ['HTML', 'CSS', 'JavaScript', 'Bootstrap', 'Django', 'Python', 'SQLite'],
         code: '',

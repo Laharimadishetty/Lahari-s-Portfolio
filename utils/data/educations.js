@@ -4,7 +4,7 @@ export const educations = [
     title: "Master of Science in Computer Science",
     duration: "August 2023 - May 2025 (Expected)",
     institution: "Stony Brook University",
-    CGPA: "3.84/4.0",
+    CGPA: "3.9/4.0",
     Coursework:['Computer Vision', 'Theory of database systems', 'Simulation and Modelling', 'Network Security', 'Machine Learning','Recent Advancements in GenAI']
   },
   {
